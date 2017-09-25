@@ -1,0 +1,19 @@
+{
+  "name": "super_bot",
+  "version": "1.0.0",
+  "description": "configuration général et dépendance commune à tous les bot",
+  "main": "superbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KurayamiNoDaiTenshi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "fs": "0.0.1-security",
+    "glob": "^7.1.2",
+    "http": "0.0.0",
+    "shelljs": "^0.7.8",
+    "url": "^0.11.0"
+  }
+}
